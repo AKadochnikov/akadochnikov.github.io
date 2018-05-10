@@ -1,0 +1,13 @@
+@import "address/address";
+@import "form/form";
+@import "_title/footer__title";
+
+.b-footer {
+  background-color: $BaseBGColor;
+}
+
+.b-footer_container {
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}

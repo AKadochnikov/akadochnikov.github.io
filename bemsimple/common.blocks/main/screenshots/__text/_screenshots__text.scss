@@ -1,0 +1,25 @@
+.b-screenshots__textTitle {
+  color:  $baseFontColor;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 17px;
+  text-align: left;
+  margin-bottom: 17px;
+  @media (min-width: 0px) and (max-width: 424px) {
+    font-size: 18px;
+  }
+}
+
+.b-screenshots__text {
+  color:  #333333;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: left;
+  @media (min-width: 0px) and (max-width: 506px) {
+    font-size: 14px;
+  }
+  @media (min-width: 0px) and (max-width: 424px) {
+    font-size: 13px;
+  }
+}

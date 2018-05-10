@@ -1,0 +1,28 @@
+.b-form__input {
+  border-radius: 5px;
+  border: none;
+  background-color: $PrimaryBGColor;
+  color: $baseFontColor;
+  width: 100%;
+  padding: 10px;
+  margin: 5px;
+}
+
+.b-form__textarea {
+  @extend .b-form__input
+}
+
+.b-form__input:focus {
+  outline: none;
+}
+
+.b-form__textarea:focus {
+  @extend .b-form__input:focus
+}
+
+.b-footer__button {
+  max-width: 8rem;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+}

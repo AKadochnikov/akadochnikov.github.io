@@ -1,0 +1,10 @@
+.b-header__img {
+  max-width: 469px;
+  max-height: 214px;
+  padding: 0;
+  @media (min-width: 900px) and (max-width: 1200px){
+  max-width: 50%;
+  }
+}
+
+

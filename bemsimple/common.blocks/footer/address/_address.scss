@@ -1,0 +1,66 @@
+.b-address__iconText {
+  font-size: 26px;
+  color: $PrimaryFontColor;
+}
+
+.b-address__item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -ms-flex-line-pack: center;
+  align-content: center;
+}
+
+.b-address__text {
+  color: $PrimaryFontColor;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+
+.b-address__item {
+  @media (min-width: 0) and (max-width: 991px){
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+}
+
+.b-address {
+  @media (min-width: 0) and (max-width: 991px){
+    margin-top: 25px;
+  }
+}
+
+.b-address__icons {
+  margin-top: 30px;
+  @media (min-width: 0) and (max-width: 991px){
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+}
+
+.socialIcons {
+  margin-top: 30px;
+  font-family: SocialIco, sans-serif;
+  color: $PrimaryFontColor;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.socialIcons:hover {
+  text-decoration: none;
+  color: $baseFontColor;
+  text-shadow: 0 0 0.5em white;
+}

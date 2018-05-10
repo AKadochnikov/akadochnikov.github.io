@@ -1,0 +1,11 @@
+.b-screenshots__img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: 15px;
+  max-width: 200px;
+  max-height: 150px;
+  @media (min-width: 0) and (max-width: 568px) {
+    margin-bottom: 10px;
+  }
+}

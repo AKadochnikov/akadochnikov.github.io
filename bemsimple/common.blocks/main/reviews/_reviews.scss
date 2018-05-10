@@ -1,0 +1,9 @@
+@import "__title/reviews__title";
+@import "__text/reviews__text";
+@import "__img/reviews__img";
+
+.b-contentReviews {
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  margin-bottom: 17px;
+}

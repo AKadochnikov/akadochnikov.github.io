@@ -1,0 +1,10 @@
+.b-buyItNow__title {
+  color:  $baseFontColor;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 36px;
+  @media (min-width: 0px) and (max-width: 424px) {
+    font-size: 20px;
+  }
+}

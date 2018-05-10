@@ -1,0 +1,25 @@
+.b-button {
+  width: 85%;
+  color:  $baseFontColor;
+  background-color: $PrimaryBGColor;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 18px;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 18px;
+  margin-right: 18px;
+  margin-left: 18px;
+  border-radius: 5px;
+  border: solid rgba(25, 0, 0, 0.1);
+}
+
+.b-button:hover {
+  color:  $PrimaryFontColor;
+  background-color: $BaseBGColor;
+  border: solid $PrimaryFontColor;
+}
+
+.b-button:focus {
+  outline: none;
+}

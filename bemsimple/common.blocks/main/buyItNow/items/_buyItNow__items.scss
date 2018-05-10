@@ -1,0 +1,63 @@
+.b-buyItNowContent {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-item-align: end;
+  align-self: flex-end;
+  background-color: $BaseBGColor;
+  padding: 2px;
+  margin: 10px;
+  border-radius: 5px;
+  @media (min-width: 0) and (max-width: 1199px) {
+    -ms-flex-item-align: normal;
+    -ms-grid-row-align: normal;
+    align-self: normal;
+    max-width: 100%;
+  }
+
+}
+
+.b-buyItNow__list {
+  padding-left: 10px;
+  list-style-position: inside;
+  color:  $PrimaryFontColor;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  margin-right: 18px;
+  margin-left: 18px;
+}
+
+.b-buyItNow__itemTitle .b-buyItNow__price .b-buyItNow__list .b-buyItNow__button {
+  display: block;
+}
+
+.b-buyItNow__itemTitle {
+  color:  $PrimaryFontColor;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+  margin-top: 18px;
+}
+
+.b-buyItNow__price {
+  width: 100%;
+  color:  $baseFontColor;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: center;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  background-color: $PrimaryBGColor;
+}
+

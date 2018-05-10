@@ -1,0 +1,33 @@
+.b-header__list {
+  color: $PrimaryFontColor;
+}
+
+.b-list {
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+.b-header__list_check {
+  list-style: inside url("../common.blocks/header/__list/icon/check_icon.png");
+ }
+
+.b-list__item {
+  color: $PrimaryFontColor;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+  margin-bottom: 10px;
+  @media (min-width: 0px) and (max-width: 506px) {
+    font-size: 16px;
+  }
+  @media (min-width: 0px) and (max-width: 424px) {
+    font-size: 14px;
+  }
+  @media (min-width: 0px) and (max-width: 376px) {
+    font-size: 13px;
+  }
+}
+
+
+

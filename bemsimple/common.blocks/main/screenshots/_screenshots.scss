@@ -1,0 +1,24 @@
+@import "__title/screenshots__title";
+@import "__text/screenshots__text";
+@import "__img/screenshots__img";
+
+.b-screenshots {
+  margin-bottom: 99px;
+}
+
+.b-contentScreenshots {
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  margin-right: 0;
+  margin-left: 0;
+  padding-left: 0;
+  padding-right: 0;
+  margin-bottom: 14px;
+  @media (min-width: 0) and (max-width: 568px) {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+}

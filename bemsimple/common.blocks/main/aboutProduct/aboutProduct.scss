@@ -1,0 +1,17 @@
+.b-aboutProduct {
+  margin-bottom: 99px;
+  @media (min-width: 0px) and (max-width: 992px) {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+}
+
+
+@import "_img/aboutProduct__img";
+@import "_text/aboutProduct__text";

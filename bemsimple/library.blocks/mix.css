@@ -1,0 +1,38 @@
+.b-text {
+    font-family: "Arial MT", sans-serif;
+}
+
+.b-basePadding {
+    padding: 50px;
+}
+
+@media (min-width: 0px) and (max-width: 992px) {
+    .b-basePadding {
+        padding: 10px;
+    }
+}
+
+.b-contentJustify {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+
+@media (min-width: 0px) and (max-width: 992px){
+    .b-invisible {
+        display: none;
+    }
+}
+
+.b-nowrap {
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+}

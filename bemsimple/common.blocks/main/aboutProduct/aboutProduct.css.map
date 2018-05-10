@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,oBAAqB;EACnB,UAAU,EAAE,4EAA2E",
+"sources": ["_img/aboutProduct__img.scss"],
+"names": [],
+"file": "aboutProduct.css"
+}

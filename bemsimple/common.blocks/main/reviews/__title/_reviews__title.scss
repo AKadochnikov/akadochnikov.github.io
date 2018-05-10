@@ -1,0 +1,8 @@
+.b-reviews__title {
+  color: $baseFontColor;
+  text-align: center;
+  margin-bottom: 30px;
+  @media (min-width: 0px) and (max-width: 424px) {
+    font-size: 20px;
+  }
+}
