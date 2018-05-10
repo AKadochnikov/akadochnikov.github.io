@@ -28,7 +28,7 @@
   padding-left: 0; }
 
 .b-header__list_check {
-  list-style: inside url("../common.blocks/header/__list/icon/check_icon.png"); }
+  list-style: inside url("../images/check_icon.png"); }
 
 .b-list__item {
   color: #fff;
