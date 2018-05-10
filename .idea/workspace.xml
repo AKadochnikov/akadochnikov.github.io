@@ -17,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bemsimple/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="20" column="67" lean-forward="true" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+            <state relative-caret-position="510">
+              <caret line="30" column="55" lean-forward="true" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -68,36 +68,6 @@
               <item name="akadochnikov.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="bemsimple" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="akadochnikov.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="akadochnikov.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="bemsimple" type="462c0819:PsiDirectoryNode" />
-              <item name="common.blocks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="akadochnikov.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="akadochnikov.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="bemsimple" type="462c0819:PsiDirectoryNode" />
-              <item name="common.blocks" type="462c0819:PsiDirectoryNode" />
-              <item name="header" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="akadochnikov.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="akadochnikov.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="bemsimple" type="462c0819:PsiDirectoryNode" />
-              <item name="common.blocks" type="462c0819:PsiDirectoryNode" />
-              <item name="header" type="462c0819:PsiDirectoryNode" />
-              <item name="__img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="akadochnikov.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="akadochnikov.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="bemsimple" type="462c0819:PsiDirectoryNode" />
-              <item name="common.blocks" type="462c0819:PsiDirectoryNode" />
-              <item name="header" type="462c0819:PsiDirectoryNode" />
-              <item name="__img" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -136,12 +106,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525979842720</updated>
-      <workItem from="1525979844189" duration="1392000" />
+      <workItem from="1525979844189" duration="1887000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1392000" />
+    <option name="totallyTimeSpent" value="1887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -173,10 +143,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/interrior/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bemsimple/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="20" column="67" lean-forward="true" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+        <state relative-caret-position="510">
+          <caret line="30" column="55" lean-forward="true" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
         </state>
       </provider>
     </entry>
